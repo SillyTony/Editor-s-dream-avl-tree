@@ -1,0 +1,41 @@
+Total number of words: 16591
+A2052
+B755
+C678
+D664
+E329
+F599
+G377
+H893
+I1042
+J55
+K216
+L379
+M761
+N340
+O1003
+P515
+Q20
+R354
+S980
+T2756
+U192
+V94
+W1199
+X0
+Y336
+Z2
+Total paragraph numbers: 303
+Reading level: 9.11432
+Speed 4.145
+Most popular words: 
+The 993
+And 736
+To 425
+A 390
+Of 390
+I 283
+In 220
+You 219
+Was 208
+That 202
